@@ -1,0 +1,10 @@
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+hospital.db
+*.egg-info
+.git
+.gitignore
