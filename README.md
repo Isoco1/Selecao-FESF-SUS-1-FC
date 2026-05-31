@@ -11,7 +11,7 @@ Sistema de gestão de plantões hospitalares com FastAPI + Next.js.
 
 ### Opção rápida (Windows)
 ```
-Abra o "iniciar.bat" (se não tiver aberir tente novamente mais uma vez)      
+Abra o "iniciar.bat" (se não abrir tente novamente mais uma vez)      
 ```
 
 ### Manual
